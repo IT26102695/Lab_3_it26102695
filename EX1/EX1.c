@@ -5,11 +5,11 @@ int main()
 	//Defining Constants
 	const double Gravity=9.80;
 	const double Efficiency=0.9;
-        const double Density_Water=1000;
+    const double Density_Water=1000;
 
 	//Defining variables
 	double Height;
-        double Flow_Rate;
+    double Flow_Rate;
 	double Mass_PerSec;
 	double Work_PerSec;
 	double Power_Megawatts;
